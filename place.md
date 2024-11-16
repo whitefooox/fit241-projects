@@ -5,6 +5,6 @@
 | Средства разработки   | Python, telegram-bot, SQl, redis(преположительно)   |
 | Репозиторий   | https://github.com/enxtiu/Place.git |
 |Разработчики|
-| nickname |Кузнецов Фёдор Алексеевич, фит-241 |
+| enxtiu |Кузнецов Фёдор Алексеевич, фит-241 |
 | nickname | - |
 | nickname | - |
